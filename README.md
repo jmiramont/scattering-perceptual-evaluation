@@ -4,4 +4,4 @@ In this repository you can find the the labels and the data used in the experime
 
 Please notice that the uploaded scripts are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-Should you have any doubts, please contact me: jmiramont@conicet.gov.ar.
+Should you have any doubts, please contact me: juan.miramont@univ-nantes.fr
